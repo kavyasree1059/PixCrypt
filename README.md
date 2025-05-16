@@ -1,1 +1,5 @@
-# PixCrypt
+PixCrypt is a secure image encryption and decryption system that leverages the Salsa20-Poly1305 cryptographic algorithm to ensure confidentiality, integrity, and authentication of image data. This project is designed to address the growing need for secure transmission and cloud-based storage of sensitive images, particularly in domains like healthcare, defense, and personal privacy.
+
+The encryption process converts images into binary data, applies the Salsa20 stream cipher for fast and efficient encryption, and then generates an authentication tag using Poly1305 to verify data integrity. The encrypted image is saved locally as a .enc file and simultaneously uploaded to Google Cloud Buckets, while metadata including the file URL and authentication tag is stored securely in MongoDB.
+
+The system allows decryption using either the .enc file or the cloud URL, provided the correct secret key and nonce are used. Before decryption, Poly1305 validates the authenticity of the encrypted data, ensuring no tampering has occurred. With a user-friendly front end and a Flask-powered back end, PixCrypt provides a robust and scalable solution for secure image management in cloud environments.
