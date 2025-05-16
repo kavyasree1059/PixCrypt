@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "resolute-land-451612-m1",
+  "private_key_id": "c565022252f708e1e4a1c68e6534f47497509e9f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDER0deDhuUFmXu\nRgryAXQsRfw13n3xI9c/PTq4IFjeni9sOd3QaBqP1B2L+lF5uf7HPpoYfS3nGIb8\nOjo4xlVOB+VxWdCtkc442KJ2ZtTfxDsgmcw4Iyfy1KT2Ra7YLKM0ne72zlIMCZxU\neiFo7IOxq1qiagmsioBz6P9Cy2gh3KfSk/vTdLm7/YX3NWQ/FukqYtB0zVtXjT1U\nd9t4SlPVhUL7/gYbyVhWQoha9hXIKmvZpgzSX7AGPsbuNKiQeGvc1j9HXPdoy9Hf\nCpQF728sL8XtmHs9nK9VCvIqj2aOszMHzJvKJGMVkpY1EhMR04PBxi9d6YM3xWhW\nmTWnc3HRAgMBAAECggEAHDq7NTgWt9UD2oH464cRgBedt1q1ZuP2foouIpLGbVg3\nbluhPyrl3RdPG5WIN9dsIRhsHccNPc5NhcPTIVzHIpaopYWbKYeNryfbL+fIyJkm\nvuDX2iAWTArQ4fmyNLWw0G3Bk34nl0MfmJfLK9XOeBRyz+ar1wTBhko1wlPSeYIL\n70kIrFEqM5xKorjqck/D+8Vz5ru/zqKQsYWfl84Yj82wYPrwpqo0ZbzGX4/hY861\nKYBMAmoLX3Bw+A2O3/a/fYnaDq0LVjYxM6aBx8+BGfyLVE3F/SNDI30RbsfAhUSt\nltlfKt6jSGTCmk2mCmhsn9IzU0IQqC7cC1ApHm8CRQKBgQDzZrJNNnYEqR3hEFA1\ntEQLDXqBidcCrvdr6NKCP0PjWPYc6oS9tW74YwFaGX6ckhVAjN4Awq0+UOJg4E9d\n4fbzr9KZeBnthMpf4cc07vdEIFDHpLulZeOIBfmnZxe1nDHsT2fb2UfZlYb3uufz\ns5MExdYCXLytf3K5rZ8rDAAafQKBgQDOcCj6LqZUT1131IN4bIV33NbvW70V/dYF\ndLxbPcXgtMXX4LokrN0GSoASl12h5CxgvNYhDMvZ2/yrkc1ykKPvrx65Jz/jRPwy\n8wLzXa91FzFTcqNfA82mzZCT7c+qrEBM+Ro65I6A2VadHFdt1m8uvbhfUabyaE2t\nwJff79bA5QKBgQDjrwhRVAWYHH63vuPZKNSRpj0XmdJIT1VhWvw4HGgr7lbi+7nK\nIEM7FJn6J2kZm0lIBb3R5knaxhzNVGbJwouYrrsJFqDiX1pT0MbgzDz/PF90MbPa\nZ3ItFrHPl49FMmQ80parwBgHAGmtqOg7PprjVxD3SrqwbUzrRe9jfClInQKBgA5c\nUQ1uV1XAG6FtYCPtcK9w5mbKO/IesVe50iyKtIw4JxcoY+qPN+TrI9OnQfU0GT41\nhLPR3xBttDr/LoqMs0rGJN3+c/xMXTryGr9xQfZkQaMrc1/1tMWowSj5PxwBVYvF\nPGTiZ2NhOxw8z3wtkZhvzDadSH7OcLDol+gVGBxdAoGBALM+TMW0UxTjB4ua/2UE\nV/2Dj7exxqrp61GaPKJgFoIfo25hdxJN+OG2YqCuvnbFWVwFJoXy0aKd9oqRxy4u\nYbclVwBMyBV0rdTExXGH8yFpiQk9ltteH5IO2N48Vm9h+ODVY0FXNE4fM7gx2y9j\n2ZvMpCceFXpmHB/EiaiQOGqN\n-----END PRIVATE KEY-----\n",
+  "client_email": "software@resolute-land-451612-m1.iam.gserviceaccount.com",
+  "client_id": "106027893043604870066",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/software%40resolute-land-451612-m1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
